@@ -1,0 +1,11 @@
+setUndecorated(true)
+AWTUtilities.setWindowOpaque(frame, false);
+setOpaque(false);
+
+CenterLayout
+
+override BasicTreeUI paintRow
+override BasicTabbedPaneUI paintFocusIndicator
+override JComponent paintComponent
+
+BorderFactory
